@@ -2,7 +2,7 @@
 
 - I specialize in building scalable and efficient **web applications**. 🚀
 
-- I'm currently learning **Flutter**.
+- I'm currently learning **React Native** & **Flutter**.
 
 ### What I Use? 🛠️
 - **Typescript** _for strong typing and better code quality._ 💻
