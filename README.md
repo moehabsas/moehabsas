@@ -4,7 +4,7 @@
 
 - I'm currently learning **Flutter** and **React Native** .
 
-#### _Find me on [GitHub](https://github.com/moehabsas) and [Instagram](https://www.instagram.com/m7md_ihab1)_ 📲
+#### _Find me on [Instagram](https://www.instagram.com/m7md_ihab1)_ 📲
 
 <br />
 
