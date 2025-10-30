@@ -8,7 +8,7 @@ I'm **Mohamed (he/him)** - I'm a fullstack developer, designer, and hight school
 
 ### ▶ GitHub Stats ⚡
 
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moesas&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=moehabsas&theme=tokyonight)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moehabsas&theme=tokyonight)
 
 ### 🛠️ Tools & Platforms
 
